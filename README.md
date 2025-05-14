@@ -20,17 +20,7 @@ This project demonstrates advanced data transformation techniques on a sample em
   - Mapped job titles to broader categories (e.g., Engineering, Management, Support).
 - **Excel Reporting:**
   - Exported the final dataset to a professional Excel file using `pandas` and `openpyxl`.
-
----
-
-# Files in the Repository
-
-- | File                             | Description                                      |
-- |----------------------------------|--------------------------------------------------|
-- | `employee_transformations.py`    | Main Python script to perform all transformations. |
-- | `Employee_records.csv`           | Sample input dataset.                           |
-- | `Advanced_Employee_Report.xlsx`  | Final enriched Excel report.                    |
-
+    
 
 # How to Run
 
